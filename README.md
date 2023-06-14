@@ -1,1 +1,1 @@
-https://Nedzhhin.github.io/rsschool-cv/cv
+https://Nedzhin.github.io/rsschool-cv/cv
