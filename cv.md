@@ -42,11 +42,11 @@ This is the code to sum the triangular numbers
 
 ## Education
 
-* Kazakh-Turkish lyceum for gifted boys, Kazakhstan, Taraz
+* **Kazakh-Turkish lyceum for gifted boys**, Kazakhstan, Taraz
     * Mahematics olympiads
-* Nazarbayev University, Kazakhstan, Astana
+* **Nazarbayev University**, Kazakhstan, Astana
     * Bachelor degree on computer science
-* Coursera, Udemy
+* **Coursera**, **Udemy**s
     * Deep learning courses
 
 
