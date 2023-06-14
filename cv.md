@@ -22,7 +22,7 @@ I am the 21 years old guy from the Kazakhstan. I am very interested in the Artif
 > keep calm and study
 
 # Code Examples
-
+This is the code to sum the triangular numbers
 ```
     function sumTriangularNumbers(n) {
   if(n < 0){
@@ -39,3 +39,25 @@ I am the 21 years old guy from the Kazakhstan. I am very interested in the Artif
     }
 }
 ```
+
+## Education
+
+* Kazakh-Turkish lyceum for gifted boys, Kazakhstan, Taraz
+    * Mahematics olympiads
+* Nazarbayev University, Kazakhstan, Astana
+    * Bachelor degree on computer science
+* Coursera, Udemy
+    * Deep learning courses
+
+
+## Experience
+
+* Worked as the Junior Machine Learning Engineer at the Cleverest Technologies company
+* Build software apps on coursworks, which are mainly related to the web development
+
+## Language
+
+* **Kazakh** - native language
+* **English** - B2 level
+* **Russian** - almost native
+* **Turkish** - basic level
